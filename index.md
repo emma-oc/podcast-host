@@ -1,6 +1,6 @@
 ## `A Bouqute of Arguments 杠上开花` podcast
 
-<img src="https://emma-oc.github.io/podcast-host/img/logo.jpg" height="30" width="30"> 你好! 很高兴认识你 :)
+<img src="https://emma-oc.github.io/podcast-host/img/logo.JPG" height="30" width="30"> 你好! 很高兴认识你 :)
 
 《杠上开花》是一个严肃又活泼的大型「留学」「职场」「脑洞」花式抬杠播客节目。
 
@@ -12,7 +12,7 @@ Email:  [abouquetofarguments@gmail.com](mailto:abouquetofarguments@gmail.com)
 
 微博关注我们: [`@杠上开花ABouquetOfArguments `](https://www.weibo.com/u/7478127455) 
 
-微信公众号：搜索[`杠上开花播客`]关注节目公众号，还可以加入节目微信群，与小Y和小M现场开杠~
+微信公众号：搜索[`杠上开花播客`]()关注节目公众号，还可以加入节目微信群，与小Y和小M现场开杠~
 
 ## 往期节目
 * [杠上开花23 - 突破能力短板——如何提高职场英语表达](audio_files/ep023.mp3)
