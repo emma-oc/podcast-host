@@ -1,10 +1,18 @@
-## Welcome to `A Bouqute of Arguments 杠上开花` podcast
+## `A Bouqute of Arguments 杠上开花` podcast
 
-你好! 很高兴认识你 :)
+<img src="https://emma-oc.github.io/podcast-host/img/logo.jpg" height="30" width="30"> 你好! 很高兴认识你 :)
 
 《杠上开花》是一个严肃又活泼的大型「留学」「职场」「脑洞」花式抬杠播客节目。
 
 小Y，小M与各行各业的好朋友们，「记录」和「分享」留学到步入职场几年来的心得，留学职场，组队升级。杠上开花，节节高！
+
+## 联系我们
+
+Email:  [abouquetofarguments@gmail.com](mailto:abouquetofarguments@gmail.com) 
+
+微博关注我们: [`@杠上开花ABouquetOfArguments `](https://www.weibo.com/u/7478127455) 
+
+微信公众号：搜索[`杠上开花播客`]关注节目公众号，还可以加入节目微信群，与小Y和小M现场开杠~
 
 ## 往期节目
 * [杠上开花23 - 突破能力短板——如何提高职场英语表达](audio_files/ep023.mp3)
@@ -29,16 +37,6 @@
 * [杠上开花04 - 疫情下的美国生活「吐槽大会」](audio_files/ep004.mp3)
 * [杠上开花02 & 03 - 初入职场，送你三个锦囊](audio_files/ep002.mp3)
 * [杠上开花01 - 创刊号 - 我们如何选择了现在的工作？](audio_files/ep001.mp3)
-
-
-## 联系我们
-
-Email:  [abouquetofarguments@gmail.com](abouquetofarguments@gmail.com)
-
-微博关注我们: [`@杠上开花ABouquetOfArguments `](https://www.weibo.com/u/7478127455)
-
-微信搜索`杠上开花播客`关注节目公众号，还可以加入节目微信群，与小Y和小M现场开杠！
-
 
 
 ###### Music attribution:
