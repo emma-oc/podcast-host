@@ -134,6 +134,8 @@ License: http://creativecommons.org/licenses/by/4.0/</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>2749</itunes:duration>
             <itunes:image href="https://emma-oc.github.io/podcast-host/img/logo.jpg"/>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>23</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
 
@@ -973,6 +975,7 @@ License: http://creativecommons.org/licenses/by/4.0/</itunes:summary>
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>992</itunes:duration>
             <itunes:image href="https://emma-oc.github.io/podcast-host/img/logo.jpg"/>
+            <itunes:season>1</itunes:season>
             <itunes:episodeType>bonus</itunes:episodeType>
         </item>
         <item>
@@ -1437,6 +1440,7 @@ License: http://creativecommons.org/licenses/by/4.0/
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>1154</itunes:duration>
             <itunes:image href="https://emma-oc.github.io/podcast-host/img/logo.jpg"/>
+            <itunes:season>1</itunes:season>
             <itunes:episodeType>bonus</itunes:episodeType>
         </item>
         <item>
@@ -1535,6 +1539,7 @@ License: http://creativecommons.org/licenses/by/4.0/
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>1065</itunes:duration>
             <itunes:image href="https://emma-oc.github.io/podcast-host/img/logo.jpg"/>
+            <itunes:season>1</itunes:season>
             <itunes:episodeType>bonus</itunes:episodeType>
         </item>
         <item>
@@ -1927,6 +1932,7 @@ License: http://creativecommons.org/licenses/by/4.0/
             <itunes:explicit>No</itunes:explicit>
             <itunes:duration>670</itunes:duration>
             <itunes:image href="https://emma-oc.github.io/podcast-host/img/logo.jpg"/>
+            <itunes:season>1</itunes:season>
             <itunes:episodeType>bonus</itunes:episodeType>
         </item>
         <item>
