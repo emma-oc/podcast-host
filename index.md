@@ -10,7 +10,7 @@
 * [Apple Podcast](https://podcasts.apple.com/us/podcast/%E6%9D%A0%E4%B8%8A%E5%BC%80%E8%8A%B1-a-bouquet-of-arguments/id1523066220)
 * [Anchor](https://anchor.fm/a-bouquet-of-arguments)
 * [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/39801152/)
-* 手动添加 [GitHub RSS(国内)](feed.xml) 或 [Anchor RSS(国外)](https://anchor.fm/s/2aa384a8/podcast/rss)
+* 在泛用型客户端手动添加 [GitHub RSS (国内)](feed.xml) 或 [Anchor RSS (国外)](https://anchor.fm/s/2aa384a8/podcast/rss)
 
 ## 联系我们
 
