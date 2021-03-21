@@ -21,6 +21,11 @@ Email:  [abouquetofarguments@gmail.com](mailto:abouquetofarguments@gmail.com)
 微信公众号：搜索[`杠上开花播客`](https://mp.weixin.qq.com/s/U-lGx468O335zqyKe0n5xA)关注节目公众号，还可以加入节目微信群，与小Y和小M现场开杠~
 
 ## 往期节目
+*   [杠上开花28 - 关于跳槽那些事儿（下）](audio_files/ep028.mp3)
+*   [杠上开花27 - 关于跳槽那些事儿（上）](audio_files/ep027.mp3)
+*   [杠上开花26 - 社恐职场生存手册](audio_files/ep026.mp3)
+*   [杠上开花25 - 新年愿望：下属的品格](audio_files/ep025.mp3)
+*   [杠上开花24 - 新年愿望：老板的品格](audio_files/ep024.mp3)
 * [杠上开花23 - 突破能力短板——如何提高职场英语表达](audio_files/ep023.mp3)
 * [杠上开花22 - 英语要多好才能叱咤职场？](audio_files/ep022.mp3)
 * [杠上开花21 - 拒当职场背锅侠! 勇敢甩回飞来横锅](audio_files/ep021.mp3)
