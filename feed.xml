@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
     <channel>
-        <title><![CDATA[杠上开花 A Bouquet of Arguments]]></title>
+        <title><![CDATA[杠上开花(国内版)]]></title>
         <description><![CDATA[很高兴遇见你！
+【本节目专为解决国内用户因为服务器原因无法收听某些节目的问题，欢迎国内听众订阅】
 
 这里是《杠上开花》，一个严肃活泼的大型留学职场脑洞花式抬杠节目。
 
@@ -30,7 +31,7 @@ License: http://creativecommons.org/licenses/by/4.0/]]></description>
         <link>https://emma-oc.github.io/podcast-host/</link>
         <image>
             <url>https://emma-oc.github.io/podcast-host/img/logo.jpg</url>
-            <title>杠上开花 A Bouquet of Arguments</title>
+            <title>杠上开花(国内版)</title>
             <link>https://emma-oc.github.io/podcast-host/</link>
         </image>
         <generator>Y at A Bouquet of Arguments</generator>
