@@ -21,8 +21,9 @@ Email:  [abouquetofarguments@gmail.com](mailto:abouquetofarguments@gmail.com)
 微信公众号：搜索[`杠上开花播客`](https://mp.weixin.qq.com/s/U-lGx468O335zqyKe0n5xA)关注节目公众号，还可以加入节目微信群，与小Y和小M现场开杠~
 
 ## 往期节目
-* [杠上开花33 - 打工呐 最重要的是开心嘛](audio_files/ep033.mp3)
-* [杠上开花32 - 为什么干活又多又好，却不一定能当领导？（下）](audio_files/ep032.mp3)
+* [杠上开花34 - 职场可塑性，开启事业无限可能](audio_files/ep034.m4a)
+* [杠上开花33 - 打工呐 最重要的是开心嘛](audio_files/ep033.m4a)
+* [杠上开花32 - 为什么干活又多又好，却不一定能当领导？（下）](audio_files/ep032.m4a)
 * [杠上开花31 - 为什么干活又多又好，却不一定能当领导？（上](audio_files/ep031.mp3)
 * [杠上开花30 - 她说：职场隐形偏见之我见](audio_files/ep030.mp3)
 * [杠上开花29 - 众里寻「师」千百度](audio_files/ep029.mp3)
