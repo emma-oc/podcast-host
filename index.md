@@ -10,6 +10,7 @@
 * [Apple Podcast](https://podcasts.apple.com/us/podcast/%E6%9D%A0%E4%B8%8A%E5%BC%80%E8%8A%B1-a-bouquet-of-arguments/id1523066220)
 * [Anchor](https://anchor.fm/a-bouquet-of-arguments)
 * [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/39801152/)
+* [小宇宙](https://www.xiaoyuzhoufm.com/podcast/5f07fbc86d7660742741a603) 和 [小宇宙国内版](https://www.xiaoyuzhoufm.com/podcast/6057ba67bccc4a30fc8b2fa1) （差别仅在墙内是否能收听）
 * 在泛用型客户端手动添加 [GitHub RSS (国内)](feed.xml) 或 [Anchor RSS (国外)](https://anchor.fm/s/2aa384a8/podcast/rss)
 
 ## 联系我们
@@ -21,6 +22,7 @@ Email:  [abouquetofarguments@gmail.com](mailto:abouquetofarguments@gmail.com)
 微信公众号：搜索[`杠上开花播客`](https://mp.weixin.qq.com/s/U-lGx468O335zqyKe0n5xA)关注节目公众号，还可以加入节目微信群，与小Y和小M现场开杠~
 
 ## 往期节目
+* [杠上开花38 - 关于编剧工作的十万个为什么（上）](audio_files/ep038.m4a)
 * [杠上开花37 - 周年快乐！节目一岁啦](audio_files/ep037.m4a)
 * [杠上开花36 - 面试官揭秘斩获大厂Offer的诀窍](audio_files/ep036.m4a)
 * [杠上开花35 - 如何给实习加分，收获offer](audio_files/ep035.m4a)
