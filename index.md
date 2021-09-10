@@ -22,7 +22,9 @@ Email:  [abouquetofarguments@gmail.com](mailto:abouquetofarguments@gmail.com)
 微信公众号：搜索[`杠上开花播客`](https://mp.weixin.qq.com/s/U-lGx468O335zqyKe0n5xA)关注节目公众号，还可以加入节目微信群，与小Y和小M现场开杠~
 
 ## 往期节目
-*  [杠上开花39 - 抄袭与烂剧，编剧的锅？（下）](audio_files/ep039.m4a)
+* [杠上开花40 - MBA的职场投资回报分析](audio_files/ep040.m4a)
+
+* [杠上开花39 - 抄袭与烂剧，编剧的锅？（下）](audio_files/ep039.m4a)
 * [杠上开花38 - 关于编剧工作的十万个为什么（上）](audio_files/ep038.m4a)
 * [杠上开花37 - 周年快乐！节目一岁啦](audio_files/ep037.m4a)
 * [杠上开花36 - 面试官揭秘斩获大厂Offer的诀窍](audio_files/ep036.m4a)
