@@ -23,7 +23,6 @@ Email:  [abouquetofarguments@gmail.com](mailto:abouquetofarguments@gmail.com)
 
 ## 往期节目
 * [杠上开花40 - MBA的职场投资回报分析](audio_files/ep040.m4a)
-
 * [杠上开花39 - 抄袭与烂剧，编剧的锅？（下）](audio_files/ep039.m4a)
 * [杠上开花38 - 关于编剧工作的十万个为什么（上）](audio_files/ep038.m4a)
 * [杠上开花37 - 周年快乐！节目一岁啦](audio_files/ep037.m4a)
