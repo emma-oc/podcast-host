@@ -13,6 +13,11 @@
 * [小宇宙](https://www.xiaoyuzhoufm.com/podcast/5f07fbc86d7660742741a603) 和 [小宇宙国内版](https://www.xiaoyuzhoufm.com/podcast/6057ba67bccc4a30fc8b2fa1) （差别仅在墙内是否能收听）
 * 在泛用型客户端手动添加 [GitHub RSS (国内)](feed.xml) 或 [Anchor RSS (国外)](https://anchor.fm/s/2aa384a8/podcast/rss)
 
+## 支持我们
+如果喜欢我们节目的话，欢迎在平台上给我们打赏支持我们的节目~ 在微信公众号“杠上开花播客”中，anchor平台上[https://anchor.fm/a-bouquet-of-arguments/support](https://anchor.fm/a-bouquet-of-arguments/support)，和Ko-Fi平台上[https://ko-fi.com/abouquetofarguments](https://ko-fi.com/abouquetofarguments) 都可以给我们赞助一杯奶茶哦~
+
+感恩的心！感谢有你！
+
 ## 联系我们
 
 Email:  [abouquetofarguments@gmail.com](mailto:abouquetofarguments@gmail.com) 
@@ -22,6 +27,8 @@ Email:  [abouquetofarguments@gmail.com](mailto:abouquetofarguments@gmail.com)
 微信公众号：搜索[`杠上开花播客`](https://mp.weixin.qq.com/s/U-lGx468O335zqyKe0n5xA)关注节目公众号，还可以加入节目微信群，与小Y和小M现场开杠~
 
 ## 往期节目
+* [杠上开花45 - 上班穿什么，居然是个职场技能？](audio_files/ep045.mp3)
+* [杠上开花44 - 谁都可以成为谈判高手——聊聊职场谈判的套路](audio_files/ep044.m4a)
 * [杠上开花43 - 跟金牌销售学习沟通的艺术](audio_files/ep043.m4a)
 * [杠上开花42 - 远程入职二三事](audio_files/ep042.m4a)
 * [杠上开花41 - 光鲜硬核高大上，顶级咨询MBB符合我们的想象吗](audio_files/ep041.m4a)
