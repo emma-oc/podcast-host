@@ -27,6 +27,7 @@ Email:  [abouquetofarguments@gmail.com](mailto:abouquetofarguments@gmail.com)
 微信公众号：搜索[`杠上开花播客`](https://mp.weixin.qq.com/s/U-lGx468O335zqyKe0n5xA)关注节目公众号，还可以加入节目微信群，与小Y和小M现场开杠~
 
 ## 往期节目
+* [杠上开花49 - 关注心理健康，拒绝身心疲惫](audio_files/ep049.m4a)
 *  [杠上开花48 - 对抗工作的无意义感 ](audio_files/ep048.m4a)
 *  [杠上开花47 - 回国还是不回，这是个问题 ](audio_files/ep047.m4a)
 *  [杠上开花46 - 年尾工作收官的Checklist ](audio_files/ep046.m4a)
